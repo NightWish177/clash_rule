@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+#杂七杂八
+DOMAIN-SUFFIX,istore.linkease.com
+DOMAIN-SUFFIX,linkease.com
 
 # 58
 DOMAIN-SUFFIX,58.com
