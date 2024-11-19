@@ -20,6 +20,9 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,api.tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,assets.fanart.tv
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
